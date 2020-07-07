@@ -41,7 +41,7 @@ public class Solution {
             arr[i] = Integer.parseInt(reader.readLine());
         }
         Arrays.sort(arr);
-        for (int i = arr.length-1; i>0; i--) {
+        for (int i = arr.length-1; i>=0; i--) {
             System.out.println(arr[i]);
         }
 
@@ -65,8 +65,4 @@ public class Solution {
         System.out.println(idea.getDescription());
     }
 
-    public static int[] array(int a[]){
-        sort(a);
-        return a;
-    }
 }
