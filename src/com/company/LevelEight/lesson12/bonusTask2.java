@@ -7,7 +7,7 @@ import java.nio.Buffer;
 import java.util.HashMap;
 import java.util.Map;
 
-public class task11 {
+public class bonusTask2 {
     /*Задача: Программа определяет, какая семья (фамилию) живёт в доме с указанным номером.
 Новая задача: Программа должна работать не с номерами домов, а с городами:
 

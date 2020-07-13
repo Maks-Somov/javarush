@@ -2,7 +2,7 @@ package com.company.LevelNine.lesson11;
 
 import java.io.*;
 
-public class task10 {
+public class bonusTask1 {
     /*Задача: Программа вводит два имени файла. И копирует первый файл на место, заданное вторым именем.*/
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

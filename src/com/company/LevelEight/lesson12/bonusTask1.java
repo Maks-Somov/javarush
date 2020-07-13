@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-public class task10 {
+public class bonusTask1 {
     /*Программа вводит с клавиатуры имя месяца и выводит его номер на экран в виде: «May is 5 month». Используйте коллекции.*/
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

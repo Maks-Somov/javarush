@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class task12 {
+public class bonusTask3 {
     /*Задача: Введи с клавиатуры 20 слов и выведи их в алфавитном порядке.*/
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

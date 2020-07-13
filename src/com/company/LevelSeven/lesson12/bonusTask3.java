@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class task10 {
+public class bonusTask3 {
     /*Задача: Программа вводит с клавиатуры 20 чисел и выводит их в убывающем порядке.*/
     public static void main(String[] args) throws IOException {
         ArrayList<Integer> list = new ArrayList<>();

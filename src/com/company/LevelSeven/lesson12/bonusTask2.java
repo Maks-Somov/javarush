@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class task9 {
+public class bonusTask2 {
     /*Задача: Программа вводит строки, пока пользователь не введёт пустую строку (нажав enter).
     Потом она конвертирует строки в верхний регистр (Мама превращается в МАМА) и выводит их на экран.
     Новая задача: Программа вводит строки, пока пользователь не введёт пустую строку (нажав enter).
