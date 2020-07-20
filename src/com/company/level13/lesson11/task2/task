@@ -1,0 +1,3 @@
+1. В классе Today реализовать интерфейс Weather.
+2. Подумай, как связан параметр String type с методом getWeatherType().
+3. Интерфейсы Weather и WeatherType уже реализованы.
